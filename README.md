@@ -1,4 +1,5 @@
-KERNEL_GITSTAT
-==============
+bcm21553_cooperve_defconfig
+===========================
 
-experiment with CM7 kernel of ace and ace i 
+Defconfig for CM7 ace i
+wip
